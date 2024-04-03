@@ -1,0 +1,11 @@
+C:\Users\factsofficer\source\repos\trig\trig\bin\Debug\net6.0\trig.deps.json
+C:\Users\factsofficer\source\repos\trig\trig\bin\Debug\net6.0\trig.dll
+C:\Users\factsofficer\source\repos\trig\trig\bin\Debug\net6.0\trig.pdb
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\trig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\trig.AssemblyInfoInputs.cache
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\trig.AssemblyInfo.cs
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\trig.csproj.CoreCompileInputs.cache
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\trig.dll
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\refint\trig.dll
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\trig.pdb
+C:\Users\factsofficer\source\repos\trig\trig\obj\Debug\net6.0\ref\trig.dll

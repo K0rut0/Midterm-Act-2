@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trig", "trig\trig.csproj", "{1DE8F130-FA02-4736-96A4-7FBDE2EE2602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output", "Output\Output.csproj", "{85CEAD49-A18C-4784-9AAB-21AB2F9BD945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE8F130-FA02-4736-96A4-7FBDE2EE2602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE8F130-FA02-4736-96A4-7FBDE2EE2602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE8F130-FA02-4736-96A4-7FBDE2EE2602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE8F130-FA02-4736-96A4-7FBDE2EE2602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85CEAD49-A18C-4784-9AAB-21AB2F9BD945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CEAD49-A18C-4784-9AAB-21AB2F9BD945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CEAD49-A18C-4784-9AAB-21AB2F9BD945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CEAD49-A18C-4784-9AAB-21AB2F9BD945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBD6237-47CB-4423-A2AC-3E7D8AA09200}
+	EndGlobalSection
+EndGlobal
